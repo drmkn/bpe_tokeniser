@@ -1,6 +1,6 @@
 # Byte Pair Encoding (BPE) Tokenizer
 
-This project implements a **Byte Pair Encoding (BPE) Tokenizer**, widely used in NLP for efficient subword tokenization. The tokenizer can train from scratch using the English Wikipedia dataset or load pre-saved merge rules for real-time tokenization.
+This project implements a **Byte Pair Encoding (BPE) Tokenizer**, widely used in NLP for efficient subword tokenization. The tokenizer can train from scratch using the English Wikipedia dataset untill a desired vocabulary size is reached or load pre-saved merge rules for real-time tokenization.
 
 ## Features
 - **Trainable**: Learns merge rules to tokenize words into subword units.
